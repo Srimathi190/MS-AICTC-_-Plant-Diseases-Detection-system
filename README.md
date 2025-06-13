@@ -34,10 +34,10 @@ This project is a Machine Learning-based web application designed to detect plan
 ![Upload Image](https://github.com/Srimathi190/MS-AICTC-_-Plant-Diseases-Detection-system/blob/494366c2f3901f9d586feacd0b33a4c69e706390/output%20screenshots/3chooseplantpic.png)
 
 ### ✅ Disease Prediction showing
-![Showing](output screenshots/4showimg.png)
+![Showing](https://github.com/Srimathi190/MS-AICTC-_-Plant-Diseases-Detection-system/blob/b746fba09309339b5b9ae2ce6547e6b005a99268/output%20screenshots/4showimg.png)
 
 ### Output
-![Output](output screenshots/5 output.jpg)
+![Output](https://github.com/Srimathi190/MS-AICTC-_-Plant-Diseases-Detection-system/blob/b746fba09309339b5b9ae2ce6547e6b005a99268/output%20screenshots/5%20output.jpg)
 
 ---
 
