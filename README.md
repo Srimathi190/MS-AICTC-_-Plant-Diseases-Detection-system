@@ -4,6 +4,8 @@ This project is a Machine Learning-based web application designed to detect plan
 
 ---
 
+DataSet Used:- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 ## 🚀 Features
 
 - 🏠 **Home Page**: A simple and welcoming UI where users can understand the purpose of the application.
