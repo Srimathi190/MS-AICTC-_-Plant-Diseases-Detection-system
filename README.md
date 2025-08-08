@@ -54,10 +54,4 @@ DataSet Used:- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-data
 
 ---
 
-## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/plant-disease-detection-system.git
-cd plant-disease-detection-system
-pip install -r requirements.txt
-streamlit run app.py
